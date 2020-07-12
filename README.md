@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am an undergraduate CS student at Notre Dame 🍀
+
+You can learn more about me at my personal website, [danewilliams.me](https://danewilliams.me) 😃
+
 <!--
 **danerwilliams/danerwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
