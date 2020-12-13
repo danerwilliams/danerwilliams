@@ -7,4 +7,3 @@ I'm an undergrad CS student at Notre Dame 🍀
 You can learn more about me at my personal website, [danewilliams.me](https://danewilliams.me)
   
 ![Dane's Github Stats](https://github-readme-stats.vercel.app/api?username=danerwilliams&count_private=true&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danerwilliams&layout=compact&langs_count=8&hide=verilog,vue,html&theme=dracula)
