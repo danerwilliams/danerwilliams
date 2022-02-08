@@ -2,8 +2,6 @@
   
 ### Hi there 👋
 
-I'm an undergrad CS student at Notre Dame 🍀
+I'm a software engineer at @workos-inc and a recent Notre Dame grad ☘️
 
 You can learn more about me at my personal website, [danewilliams.me](https://danewilliams.me)
-  
-![Dane's Github Stats](https://github-readme-stats.vercel.app/api?username=danerwilliams&count_private=true&show_icons=true&theme=dracula)
