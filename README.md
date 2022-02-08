@@ -2,6 +2,6 @@
   
 ### Hi there 👋
 
-I'm a software engineer at @workos-inc and a recent Notre Dame grad ☘️
+I'm a software engineer at [WorkOS](https://workos.com/) and a recent Notre Dame grad ☘️
 
 You can learn more about me at my personal website, [danewilliams.me](https://danewilliams.me)
