@@ -2,4 +2,4 @@
   
 ### Hi there 👋
 
-You can learn more about me at my personal website, [danewilliams.me](https://danewilliams.me)
+You can learn more about me at my personal website, [danewilliams.com](https://danewilliams.com)
